@@ -1,7 +1,7 @@
 [![Tilia logo][Tilia-Image]](#)
 
-> ### Tilia {scope} {feature} {platform?}
-> {Description of feature}.
+> ### SDK -> WaveXR Plugin for the Unity Software
+> SDK Wrappers for the WaveXR Plugin Unity asset.
 
 [![Release][Version-Release]][Releases]
 [![License][License-Badge]][License]
@@ -9,9 +9,15 @@
 
 ## Introduction
 
-{Introduction into the purpose of the feature.}
+The [WaveXR Plugin] asset for the [Unity] software provides direct access to the WaveXR hardware API and therefore offers a number of additional features outside of the default Unity software XR offering.
 
-> **Requires** {platform and minimum version number}.
+This SDK Wrapper enables the WaveXR Plugin features to be used with other Tilia packages for tighter integration.
+
+> **Requires**:
+> * The Unity software version `2019.4.40f1` (or above).
+> * The Vive Wave XR Plugin asset `5.2.0-r.8` (or above).
+> * The Vive Wave XR Plugin - Essence asset `5.2.0-r.8` (or above).
+> * The Vive Wave XR Plugin - Native asset `5.2.0-r.8` (or above).
 
 ## Getting Started
 
@@ -35,9 +41,9 @@ Please refer to the Extend Reality [Code of Conduct].
 
 Code released under the [MIT License][License].
 
-[License-Badge]: https://img.shields.io/github/license/ExtendRealityLtd/Tilia.{scope}.{feature}.{platform?}.svg
-[Version-Release]: https://img.shields.io/github/release/ExtendRealityLtd/Tilia.{scope}.{feature}.{platform?}.svg
-[project coding conventions]: https://github.com/ExtendRealityLtd/.github/blob/master/CONVENTIONS/{project_type}
+[License-Badge]: https://img.shields.io/github/license/ExtendRealityLtd/Tilia.SDK.WaveXR.Unity.svg
+[Version-Release]: https://img.shields.io/github/release/ExtendRealityLtd/Tilia.SDK.WaveXR.Unity.svg
+[project coding conventions]: https://github.com/ExtendRealityLtd/.github/blob/master/CONVENTIONS/UNITY3D.md
 
 [Tilia-Image]: https://raw.githubusercontent.com/ExtendRealityLtd/related-media/main/github/readme/tilia.png
 [License]: LICENSE.md
@@ -49,3 +55,6 @@ Code released under the [MIT License][License].
 [Releases]: ../../releases
 [Contributing guidelines]: https://github.com/ExtendRealityLtd/.github/blob/master/CONTRIBUTING.md
 [Code of Conduct]: https://github.com/ExtendRealityLtd/.github/blob/master/CODE_OF_CONDUCT.md
+
+[WaveXR Plugin]: https://developer.vive.com/resources/vive-wave/tutorials/installing-wave-xr-plugin-unity/
+[Unity]: https://unity3d.com/
