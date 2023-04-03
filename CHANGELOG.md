@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://github.com/ExtendRealityLtd/Tilia.SDK.WaveXR.Unity/compare/v1.0.1...v1.0.2) (2023-04-03)
+
+#### Miscellaneous Chores
+
+* **deps:** bump io.extendreality.zinnia.unity from 2.9.0 to 2.10.0 ([82fdec4](https://github.com/ExtendRealityLtd/Tilia.SDK.WaveXR.Unity/commit/82fdec4bdb8650aa64c3b52dea20fae5fb6ce6f7))
+  > Bumps [io.extendreality.zinnia.unity](https://github.com/ExtendRealityLtd/Zinnia.Unity) from 2.9.0 to 2.10.0. - [Release notes](https://github.com/ExtendRealityLtd/Zinnia.Unity/releases) - [Changelog](https://github.com/ExtendRealityLtd/Zinnia.Unity/blob/master/CHANGELOG.md) - [Commits](https://github.com/ExtendRealityLtd/Zinnia.Unity/compare/v2.9.0...v2.10.0)
+
 ### [1.0.1](https://github.com/ExtendRealityLtd/Tilia.SDK.WaveXR.Unity/compare/v1.0.0...v1.0.1) (2023-03-28)
 
 #### Miscellaneous Chores
