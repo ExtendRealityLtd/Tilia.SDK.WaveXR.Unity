@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.6](https://github.com/ExtendRealityLtd/Tilia.SDK.WaveXR.Unity/compare/v1.0.5...v1.0.6) (2023-05-06)
+
+#### Bug Fixes
+
+* **prefabs:** ensure all rig moment processes are run ([d6036f0](https://github.com/ExtendRealityLtd/Tilia.SDK.WaveXR.Unity/commit/d6036f0aaf01d5352eac070069ff8114e872df0c))
+  > There was a missing moment process for the dominant controller that has now been added back in.
+
 ### [1.0.5](https://github.com/ExtendRealityLtd/Tilia.SDK.WaveXR.Unity/compare/v1.0.4...v1.0.5) (2023-05-06)
 
 #### Miscellaneous Chores
