@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ExtendRealityLtd/Tilia.SDK.WaveXR.Unity/compare/v1.0.9...v1.1.0) (2023-10-09)
+
+#### Features
+
+* **package.json:** update wave sdk to latest version ([659215a](https://github.com/ExtendRealityLtd/Tilia.SDK.WaveXR.Unity/commit/659215af5b530484f560dea4e8cbd814209c3489))
+  > The Wave SDK has been updated to 5.4.0-r.8.
+
 ### [1.0.9](https://github.com/ExtendRealityLtd/Tilia.SDK.WaveXR.Unity/compare/v1.0.8...v1.0.9) (2023-07-10)
 
 #### Miscellaneous Chores
