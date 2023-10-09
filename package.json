@@ -27,8 +27,8 @@
         "url": "https://github.com/ExtendRealityLtd"
     },
     "dependencies": {
-        "com.htc.upm.wave.xrsdk": "5.2.0-r.8",
-        "com.htc.upm.wave.essence": "5.2.0-r.8",
+        "com.htc.upm.wave.xrsdk": "5.4.0-r.8",
+        "com.htc.upm.wave.essence": "5.4.0-r.8",
         "io.extendreality.zinnia.unity": "2.15.0"
     },
     "files": [
