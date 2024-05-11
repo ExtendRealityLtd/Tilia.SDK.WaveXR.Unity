@@ -29,7 +29,7 @@
     "dependencies": {
         "com.htc.upm.wave.xrsdk": "5.4.0-r.8",
         "com.htc.upm.wave.essence": "5.4.0-r.8",
-        "io.extendreality.zinnia.unity": "2.16.0"
+        "io.extendreality.zinnia.unity": "2.16.1"
     },
     "files": [
         "*.md",
